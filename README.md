@@ -1,10 +1,10 @@
 # ColorPicker
 Application de choix de couleur
-démarrage du projet:
+#démarrage du projet:
 npm create vite@latest colorPicker
-Se positionner sur le Projet:
+#Se positionner sur le Projet:
 cd colorPicker
-installation des dépendances: 
+#installation des dépendances: 
 npm install
-exécution du projet sur navigateur:
+#exécution du projet sur navigateur:
 npm run dev
